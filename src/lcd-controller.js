@@ -1,4 +1,3 @@
-import rpio from "rpio";
 import RPIO from "rpio";
 import LCD from "./cmds.js";
 

@@ -1,0 +1,24 @@
+{
+  "name": "rpio-lcd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giovani-Freitag/rpio-lcd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giovani-Freitag/rpio-lcd/issues"
+  },
+  "homepage": "https://github.com/Giovani-Freitag/rpio-lcd#readme",
+  "dependencies": {
+    "rpio": "^2.4.2"
+  }
+}
